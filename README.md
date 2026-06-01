@@ -1,65 +1,54 @@
-# 👋 Hola, soy Yasmin Beltre
+# 📊 Customer Churn Prediction for Telecommunications
 
-### Customer Success & Operations Specialist | Data Analytics | AI Projects
+## Project Overview
 
-Profesional con experiencia en operaciones, servicio al cliente y optimización de procesos, actualmente desarrollando competencias en Análisis de Datos, Machine Learning e Inteligencia Artificial mediante proyectos prácticos orientados a resolver problemas de negocio.
+This Machine Learning project predicts customer churn in a telecommunications company. The objective is to identify customers who are likely to cancel their service and support retention strategies through data-driven insights.
 
----
+## Business Problem
 
-## 🚀 Tecnologías y Herramientas
+Customer retention is a critical challenge in the telecommunications industry. Predicting churn allows companies to proactively engage at-risk customers and reduce revenue loss.
+
+## Technologies Used
 
 * Python
 * Pandas
 * NumPy
 * Matplotlib
 * Seaborn
-* Machine Learning
-* Data Analytics
+* Scikit-learn
 * Google Colab
-* Git y GitHub
+* GitHub
 
----
+## Machine Learning Models
 
-## 📂 Proyectos Destacados
+* Logistic Regression
+* Random Forest Classifier
 
-### 📈 Sistema Predictivo de Churn
+## Project Workflow
 
-Modelo para identificar clientes con riesgo de abandono y apoyar estrategias de retención.
+1. Data Collection and Exploration
+2. Data Cleaning and Preprocessing
+3. Exploratory Data Analysis (EDA)
+4. Feature Engineering
+5. Model Training
+6. Model Evaluation
+7. Customer Churn Prediction
 
-### 😊 Analizador de Sentimientos con IA
+## Skills Demonstrated
 
-Clasificación automática de opiniones y comentarios utilizando procesamiento de lenguaje natural.
-
-### ⚖️ Análisis de Sesgo y Ética en IA
-
-Evaluación de sesgos en datos de contratación y su posible impacto en sistemas de inteligencia artificial.
-
-### 🤖 Asistente Automatizado de Atención al Cliente
-
-Clasificación automática de consultas y generación de respuestas según la categoría del mensaje.
-
-### 📊 Dashboard Interactivo
-
-Visualización de indicadores y métricas mediante gráficos interactivos para la toma de decisiones.
-
-### 💳 Detección de Fraude con Tarjetas
-
-Análisis de transacciones para identificar comportamientos potencialmente fraudulentos.
-
----
-
-## 🌱 Actualmente Aprendiendo
-
+* Data Analysis
 * Machine Learning
-* Inteligencia Artificial Aplicada
-* Visualización de Datos
-* IA Responsable y Ética en IA
+* Predictive Analytics
+* Data Visualization
+* Customer Retention Analysis
+* Business Intelligence
 
----
+## Author
 
-## 📫 Conecta Conmigo
+**Yasmin Beltre**
 
-LinkedIn:
-https://linkedin.com/in/yasminbeltre
+Specialist in Customer Success, Operations, Data Analytics and Artificial Intelligence.
 
-📍 Santo Domingo, República Dominicana
+📍 Santo Domingo, Dominican Republic
+
+🔗 LinkedIn: linkedin.com/in/yasminbeltre
