@@ -1,14 +1,15 @@
+
 # 📊 Customer Churn Prediction for Telecommunications
 
-## Project Overview
+## 📌 Project Overview
 
 This Machine Learning project predicts customer churn in a telecommunications company. The objective is to identify customers who are likely to cancel their service and support retention strategies through data-driven insights.
 
-## Business Problem
+## 🎯 Business Problem
 
 Customer retention is a critical challenge in the telecommunications industry. Predicting churn allows companies to proactively engage at-risk customers and reduce revenue loss.
 
-## Technologies Used
+## 🛠 Technologies Used
 
 * Python
 * Pandas
@@ -19,12 +20,12 @@ Customer retention is a critical challenge in the telecommunications industry. P
 * Google Colab
 * GitHub
 
-## Machine Learning Models
+## 🤖 Machine Learning Models
 
 * Logistic Regression
 * Random Forest Classifier
 
-## Project Workflow
+## 🔄 Project Workflow
 
 1. Data Collection and Exploration
 2. Data Cleaning and Preprocessing
@@ -34,7 +35,7 @@ Customer retention is a critical challenge in the telecommunications industry. P
 6. Model Evaluation
 7. Customer Churn Prediction
 
-## Skills Demonstrated
+## 📈 Skills Demonstrated
 
 * Data Analysis
 * Machine Learning
@@ -43,7 +44,7 @@ Customer retention is a critical challenge in the telecommunications industry. P
 * Customer Retention Analysis
 * Business Intelligence
 
-## Author
+## 👩‍💻 Author
 
 **Yasmin Beltre**
 
