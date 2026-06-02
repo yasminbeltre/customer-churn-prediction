@@ -116,11 +116,9 @@ Este sistema puede integrarse en estrategias de **Customer Success** para:
 
 ## 👤 Autora
 
-**Yasmin Beltre**
-Customer Success & Operations Specialist | AI Portfolio – INDOTEL/BID/CYMETRIA 2026
+**Yasmin Beltre** Customer Success & Operations Specialist | AI Portfolio – INDOTEL/BID/CYMETRIA 2026
 📍 Santo Domingo, República Dominicana
-🔗 [LinkedIn](https://linkedin.com/in/yasminbeltre)
-
+🔗 [LinkedIn](https://www.linkedin.com/in/yasminbeltre)
 ---
 
 *Proyecto desarrollado como parte del programa de formación en Inteligencia Artificial INDOTEL/BID/CYMETRIA 2026.*
