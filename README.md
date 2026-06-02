@@ -4,6 +4,7 @@
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?logo=scikit-learn)
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/Yasminbeltre/blob/main/customer_churn_prediction.ipynb)
 
 Sistema de predicción que identifica qué clientes de una empresa de telecomunicaciones tienen mayor probabilidad de abandonar el servicio (**churn**), utilizando modelos de Machine Learning entrenados con datos reales.
 
