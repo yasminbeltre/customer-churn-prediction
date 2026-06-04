@@ -1,4 +1,4 @@
-# 📊 Predictor de Abandono de Clientes con Machine Learning
+# 📊 Customer-churn-prediction
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/Yasminbeltre/blob/main/customer_churn_prediction.ipynb)
