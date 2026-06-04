@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/customer-churn-prediction/blob/main/customer_churn_prediction.ipynb)
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/customer-churn-prediction/blob/main/customer_churn_prediction.ipynb)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?logo=scikit-learn)
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
