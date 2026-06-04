@@ -1,10 +1,10 @@
 # 📊 Predictor de Abandono de Clientes con Machine Learning
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/Yasminbeltre/blob/main/customer_churn_prediction.ipynb)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebook-orange?logo=googlecolab)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-green?logo=scikit-learn)
 ![Estado](https://img.shields.io/badge/Estado-Completado-brightgreen)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yasminbeltre/Yasminbeltre/blob/main/customer_churn_prediction.ipynb)
 
 Sistema de predicción que identifica qué clientes de una empresa de telecomunicaciones tienen mayor probabilidad de abandonar el servicio (**churn**), utilizando modelos de Machine Learning entrenados con datos reales.
 
@@ -91,7 +91,8 @@ Ayudar a las empresas a tomar decisiones preventivas sobre retención de cliente
 ## 📂 Contenido del repositorio
 
 ```
-├── Customer_Churn_Prediction.ipynb   # Notebook principal con todo el análisis y código
+├── customer_churn_prediction.ipynb   # Notebook principal con todo el análisis y código
+├── requirements.txt                  # Dependencias del proyecto
 └── README.md                         # Documentación del proyecto
 ```
 
@@ -99,7 +100,7 @@ Ayudar a las empresas a tomar decisiones preventivas sobre retención de cliente
 
 ## 🚀 ¿Cómo ejecutarlo?
 
-1. Abre el archivo `Customer_Churn_Prediction.ipynb` en Google Colab.
+1. Abre el archivo `customer_churn_prediction.ipynb` en Google Colab.
 2. Ejecuta las celdas en orden desde el menú **Entorno de ejecución → Ejecutar todo**.
 3. El dataset se carga automáticamente desde internet — no necesitas descargar nada.
 
@@ -117,12 +118,11 @@ Este sistema puede integrarse en estrategias de **Customer Success** para:
 
 ## 👤 Autora
 
-**Yasmin Beltre** Customer Success & Operations Specialist | AI Portfolio – INDOTEL/BID/CYMETRIA 2026
+**Yasmin Beltre**
+Customer Success & Operations Specialist | AI Portfolio – INDOTEL/BID/CYMETRIA 2026
 📍 Santo Domingo, República Dominicana
-🔗 [LinkedIn](https://www.linkedin.com/in/yasminbeltre)
+🔗 [LinkedIn](https://linkedin.com/in/yasminbeltre) | [GitHub](https://github.com/yasminbeltre)
+
 ---
 
 *Proyecto desarrollado como parte del programa de formación en Inteligencia Artificial INDOTEL/BID/CYMETRIA 2026.*
-
-
-## 📌 Project Overview
