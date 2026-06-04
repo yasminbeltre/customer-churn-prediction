@@ -1,0 +1,9 @@
+# Dashboard Interactivo — Fundamentos de Inteligencia Artificial
+# Proyecto: Python, Gradio y Google Colab
+# Programa INDOTEL/BID/CYMETRIA 2026
+
+# Interfaz web interactiva
+gradio>=4.0.0
+
+# Entorno
+ipykernel>=6.0.0
